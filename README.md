@@ -23,6 +23,9 @@ Random Forest performed better in predicting Bitcoin prices compared to Linear R
 ## 📉 Visualization
 The project includes graphs comparing actual vs predicted prices.
 
+## 📸 Output
+![Prediction](assets/prediction.png)
+
 ## 🚀 Future Improvements
 - Add LSTM deep learning model
 - Deploy with Streamlit dashboard

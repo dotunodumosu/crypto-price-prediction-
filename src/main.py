@@ -52,16 +52,4 @@ plt.title("Bitcoin Price Prediction")
 plt.savefig("prediction.png")
 plt.show()
 
-plt.figure(figsize=(10,5))
-
-plt.plot(y_test.values, label="Actual Prices", color="blue")
-plt.plot(y_pred, label="Predicted Prices", color="red")
-
-plt.title("Actual vs Predicted Prices")
-plt.xlabel("Time")
-plt.ylabel("Price")
-
-plt.legend()
-plt.show()
-
 plt.savefig("assets/actual_vs_predicted.png")

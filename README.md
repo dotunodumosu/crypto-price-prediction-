@@ -25,7 +25,10 @@ The project includes graphs comparing actual vs predicted prices.
 
 <<<<<<< HEAD
 =======
-## 📸 Output
+## 📊 Model Output
+
+Below is the prediction result from the trained model:
+
 ![Prediction](assets/prediction.png)
 
 >>>>>>> d6f1c9e4b04c63005f585816c212a221fa1a9eec

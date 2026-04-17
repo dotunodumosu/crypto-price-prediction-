@@ -63,3 +63,5 @@ plt.ylabel("Price")
 
 plt.legend()
 plt.show()
+
+plt.savefig("assets/actual_vs_predicted.png")
